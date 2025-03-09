@@ -3,7 +3,7 @@
 ## 📷 Screenshots  
 
 ### 1️⃣ Starting Page  
-![Bank Starting Page](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/index.jpg)  
+![Bank Starting Page](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/index.jpg)  
 
 ### 2️⃣ User Sign-Up Page  
 ![User Sign-Up](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/signup.jpg)  
