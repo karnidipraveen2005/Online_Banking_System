@@ -3,49 +3,49 @@
 ## 📷 Screenshots  
 
 ### 1️⃣ Starting Page  
-![Bank Starting Page](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/index.jpg)  
+![Bank Starting Page](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/index.jpg)  
 
 ### 2️⃣ User Sign-Up Page  
-![User Sign-Up](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/signup.jpg)  
+![User Sign-Up](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/signup.jpg)  
 
 ### 3️⃣ User Login Page  
-![User Login](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/login.jpg)  
+![User Login](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/login.jpg)  
 
 ### 4️⃣ User Home Page  
-![User Home](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/uhome.jpg)  
+![User Home](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/uhome.jpg)  
 
 ### 5️⃣ User Credit Page  
-![User Credit](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/ucredit.jpg)  
+![User Credit](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/ucredit.jpg)  
 
 ### 6️⃣ User Debit Page  
-![User Debit](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/udebit.jpg)  
+![User Debit](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/udebit.jpg)  
 
 ### 7️⃣ User Transfer Page  
-![User Transfer](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/utransfer.jpg)  
+![User Transfer](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/utransfer.jpg)  
 
 ### 8️⃣ Customer Information Page  
-![Customer Info](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/uinfo.jpg)  
+![Customer Info](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/uinfo.jpg)  
 
 ### 9️⃣ Change Password Page  
-![Change Password](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/upass.jpg)  
+![Change Password](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/upass.jpg)  
 
 ### 🔟 Contact Us Page  
-![Contact Us](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/contact.jpg)  
+![Contact Us](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/contact.jpg)  
 
 ### 11️⃣ Admin Login Page  
-![Admin Login](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/adminlogin.jpg)  
+![Admin Login](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/adminlogin.jpg)  
 
 ### 12️⃣ Admin Home Page  
-![Admin Home](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/ahome.jpg)  
+![Admin Home](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/ahome.jpg)  
 
 ### 13️⃣ User Details Page  
-![User Details](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/userdetails.jpg)  
+![User Details](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/userdetails.jpg)  
 
 ### 14️⃣ Customer Permission Page  
-![Customer Permission](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/permission.jpg)  
+![Customer Permission](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/permission.jpg)  
 
 ### 15️⃣ Manage Customers Page  
-![Manage Customers](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/amanagecust.jpg)  
+![Manage Customers](https://raw.githubusercontent.com/karnidipraveen2005/Online_Banking_System/main/screenshots/amanagecust.jpg)  
 
 ---
 
