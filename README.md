@@ -3,49 +3,49 @@
 ## 📷 Screenshots  
 
 ### 1️⃣ Starting Page  
-![Bank Starting Page](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/index.png)  
+![Bank Starting Page](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/index.png)  
 
 ### 2️⃣ User Sign-Up Page  
-![User Sign-Up](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/signup.png)  
+![User Sign-Up](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/signup.png)  
 
 ### 3️⃣ User Login Page  
-![User Login](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/login.png)  
+![User Login](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/login.png)  
 
 ### 4️⃣ User Home Page  
-![User Home](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/uhome.png)  
+![User Home](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/uhome.png)  
 
 ### 5️⃣ User Credit Page  
-![User Credit](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/ucredit.png)  
+![User Credit](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/ucredit.png)  
 
 ### 6️⃣ User Debit Page  
-![User Debit](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/udebit.png)  
+![User Debit](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/udebit.png)  
 
 ### 7️⃣ User Transfer Page  
-![User Transfer](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/utransfer.png)  
+![User Transfer](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/utransfer.png)  
 
 ### 8️⃣ Customer Information Page  
-![Customer Info](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/uinfo.png)  
+![Customer Info](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/uinfo.png)  
 
 ### 9️⃣ Change Password Page  
-![Change Password](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/upass.png)  
+![Change Password](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/upass.png)  
 
 ### 🔟 Contact Us Page  
-![Contact Us](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/contact.png)  
+![Contact Us](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/contact.png)  
 
 ### 11️⃣ Admin Login Page  
-![Admin Login](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/adminlogin.png)  
+![Admin Login](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/adminlogin.png)  
 
 ### 12️⃣ Admin Home Page  
-![Admin Home](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/ahome.png)  
+![Admin Home](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/ahome.png)  
 
 ### 13️⃣ User Details Page  
-![User Details](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/userdetails.png)  
+![User Details](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/userdetails.png)  
 
 ### 14️⃣ Customer Permission Page  
-![Customer Permission](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/permission.png)  
+![Customer Permission](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/permission.png)  
 
 ### 15️⃣ Manage Customers Page  
-![Manage Customers](https://github.com/karnidipraveen2005/Online_Banking_System/blob/main/screenshots/amanagecust.png)  
+![Manage Customers](https://github.com/karnidipraveen2005/Online_Banking_System/tree/main/screenshots/amanagecust.png)  
 
 ---
 
